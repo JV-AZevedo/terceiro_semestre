@@ -59,5 +59,3 @@ while True:
         print("Resposta Inválida!")
 for i in range(len(nomes)):
     print(f"{nomes[i]}, Salário: {calculo(horas[i],turno[i],categoria[i]):.2f}")
-
-        
